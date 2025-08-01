@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on:  
+- 🔭 I’m currently working on:
+- `> Working on JUMPSTART and Making a game 
   `> A Pygame platformer game + custom level editor`  
   `> Building my own NFC-powered PCB projects (power bank, business cards, etc)`
 
