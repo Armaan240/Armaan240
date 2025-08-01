@@ -43,8 +43,8 @@
 ---
 
 ### 📫 Reach Me:
-- DM me on Discord: `armaan.exe`
-- Email: `armaan@yourmail.com` *(replace this)*
+- DM me on Slack: `@amu`
+- Email: `amusoni240@gmail.com` *(replace this)*
 - Portfolio site: `Coming soon ⚡`
 
 ---
