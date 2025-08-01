@@ -44,7 +44,7 @@
 
 ### 📫 Reach Me:
 - DM me on Slack: `@amu`
-- Email: `amusoni240@gmail.com` *(replace this)*
+- Email: `amusoni240@gmail.com` 
 - Portfolio site: `Coming soon ⚡`
 
 ---
