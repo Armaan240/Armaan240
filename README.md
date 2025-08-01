@@ -49,7 +49,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armaan-dev&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaan-dev&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+
