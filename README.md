@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">👨‍💻 Student | 🕹️ Game Dev | ⚡ Electronics & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/ChesterAbstract-code-coding-coded-EZr27ZbJwmjE9PGyLN">
 
 - 🔭 I’m currently working on:             
   `> Working on Siege and Making Expenzo`                      
@@ -39,7 +39,7 @@
 ### ⚡ Projects I’m Proud Of
 - 🔌 **TOYZY** — a custom 3D printer (WIP)
 - 🎮 **Hellspace** — a Python platformer game with animated menus & level editor
-- 📱 **NFC Candy Clock** — an LED-powered, circular digital business card with NFC
+- 📱 **Expenzo** — a 8 bit retro style ledger app
 
 ---
 
