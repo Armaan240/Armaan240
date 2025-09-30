@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">👨‍💻 Student | 🕹️ Game Dev | ⚡ Electronics & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/ChesterAbstract-code-coding-coded-EZr27ZbJwmjE9PGyLN">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMyOGw3MDU2cDZtdnluMXVzaHhpbmc3aHJ1YmxyZmxmb2Z6MnUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 - 🔭 I’m currently working on:             
   `> Working on Siege and Making Expenzo`                      
