@@ -3,10 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMyOGw3MDU2cDZtdnluMXVzaHhpbmc3aHJ1YmxyZmxmb2Z6MnUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
-- 🔭 I’m currently working on:             
-  `> Working on Siege and Making Expenzo`                      
-  `> Binny The Smart Dustbin`                          
-  `> Building my own NFC-powered PCB projects (power bank, business cards, etc)`
+- 🔭 I’m currently working on:
+- `> Making Second Version Of Toyzy Makzy the 3d printer`          
+  `> Working on Foodie Ysws`                      
+  `> Looking to start my own Ysws`                          
+  
 
 - 🌱 Learning right now:  
   `> Advanced Python, Pygame architecture, KiCad PCB design, Fusion 360 CAD`
