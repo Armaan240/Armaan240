@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMyOGw3MDU2cDZtdnluMXVzaHhpbmc3aHJ1YmxyZmxmb2Z6MnUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 - 🔭 I’m currently working on:
-- `> Making Second Version Of Toyzy Makzy the 3d printer`          
-  `> Working on Foodie Ysws`                      
+- `> Constructing CAD Models`          
+  `> Working on HandPad`                      
   `> Looking to start my own Ysws`                          
   
 
