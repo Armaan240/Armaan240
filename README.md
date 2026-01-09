@@ -39,7 +39,7 @@
 
 ### ⚡ Projects I’m Proud Of
 - 🔌 **TOYZY** — a custom 3D printer (WIP)
-- 🎮 **Hellspace** — a Python platformer game with animated menus & level editor
+- 🎮 **Handpad** — A Uinique Hack Pad made For Cadding with Backlights RGB 🙌🏻
 - 📱 **Expenzo** — a 8 bit retro style ledger app
 
 ---
